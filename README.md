@@ -1,9 +1,9 @@
 
 <h1 align="center">👋 Hey there, I'm <span style="color:#00FFFF">NAME</span>!</h1>
-<h3 align='center'>JOB/TITLE</h3>
+<h3 align='center'>Professional sigma | software engineer | rizlzer</h3>
 ---
 
-<p align='center'>🔥 My Technologies/Skills:</p>
+<p align='center'>🔥 i am very cool adn yeah this is My Technologies/Skills:</p>
 
 
 <p align="center">
