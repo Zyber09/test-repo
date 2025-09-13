@@ -1,13 +1,13 @@
 
-<h1 align="center">👋 Hey there, I'm <span style="color:#00FFFF">Zyber</span>!</h1>
+<h1 align="center">👋 Hey there, I'm <span style="color:#00FFFF"></span>!</h1>
 <h3 align='center'>🛠️ Software Engineer</h3>
 ---
 
-<p align='center'>🔥 desc</p>
+<p align='center'>🔥 My Technologies/Skills</p>
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,cpp,cs,html,css,nodejs,react,git,github&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=js,cpp,react,vscode,ts,kotlin&theme=dark"/>
 </p>
 
 
@@ -23,7 +23,7 @@
 </p>
 
 
-<p align='center'><a href="https://github.com/Zyber09"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a></p>
+<p align='center'><a href="https://github.com/Zyber09"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://youtube.com/zyberrrr"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a></p>
 
 ---
 
