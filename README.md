@@ -1,14 +1,14 @@
 
-<h1 align="center">👋 Hey there, I'm <span style="color:#00FFFF">Zybaaa</span>!</h1>
+<h1 align="center">👋 Hey there, I'm <span style="color:#00FFFF">Zyber</span>!</h1>
 <h3 align="center">💻 Programmer | 🎮 Game Modder | 🛠️ Software Engineer</h3>
 
 ---
 
-<p align="center">🔥 Description</p>
+<p align='center'>🔥 Desc</p>
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py, js, cpp&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=py, ts, c#&theme=dark"/>
 </p>
 
 
@@ -32,3 +32,4 @@
 ⭐ If you like my work, consider <b>starring</b> my repositories!<br/>
 <img src="https://komarev.com/ghpvc/?username=Zyber09&style=flat-square&color=blue"/>
 </p>
+
