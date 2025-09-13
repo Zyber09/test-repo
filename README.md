@@ -6,6 +6,10 @@
 <p align='center'>🔥 My Technologies/Skills:</p>
 
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,nodejs,git&theme=dark"/>
+</p>
+
 
 ---
 
